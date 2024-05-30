@@ -1,5 +1,4 @@
 from pymodbus.client import ModbusTcpClient     #pip install pymodbus
-from pymodbus.exceptions import ModbusException
 from tabulate import tabulate                   #pip install tabulate
 
 
