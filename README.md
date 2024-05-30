@@ -1,2 +1,2 @@
-# Projeto-python-MODBUS
- Projeto para ler variáveis de registradores de um CLP com python.
+# Projeto Python-MODBUS
+ Esse projeto consiste em fazer a comunicação entre CLPs e servidor pegando dados dos registradores usando MODBUS TCP/IP.
